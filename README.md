@@ -20,3 +20,30 @@ Example of VM created:
 
 Example adress:
 http://172.201.250.84
+
+# Missing Sections to Add to README.md:
+
+✅ Architecture Diagram - ASCII art or image showing:
+   - Azure Resource Group
+   - Virtual Network (VNet)
+   - Public IP
+   - Network Security Group (NSG)
+   - Linux VM
+   - Nginx Server
+
+✅ Prerequisites - Clear requirements:
+   - Azure subscription
+   - Azure CLI or portal access
+   - SSH key setup
+
+✅ Quick Start - Step-by-step copy-paste commands
+   - Resource creation commands
+   - VM configuration steps
+   - Verification commands
+
+✅ Troubleshooting Section
+   - Common error messages
+   - How to access VM via SSH
+   - How to check Nginx logs
+
+✅ Cleanup Instructions - How to destroy resources and avoid costs
