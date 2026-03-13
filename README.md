@@ -14,6 +14,6 @@ Components used:
 ## Result
 
 Public web server deployed on Azure VM.
-
+"C:\Users\Korisnik\OneDrive\Desktop\AZURE LAB\Screenshot (1252).png"
 Example:
 http://172.201.250.84
