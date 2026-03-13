@@ -13,7 +13,9 @@ Components used:
 
 ## Result
 
-Public web server deployed on Azure VM.
+Public web server dep<img width="1920" height="1021" alt="website-running" src="https://github.com/user-attachments/assets/c155693a-89dd-4f0e-9de9-5f83fc5b6efa" />
+<img width="1920" height="1021" alt="website-running" src="https://github.com/user-attachments/assets/c155693a-89dd-4f0e-9de9-5f83fc5b6efa" />
+loyed on Azure VM.
 
 Example:
 http://172.201.250.84
