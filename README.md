@@ -16,5 +16,8 @@ Components used:
 Public web server deployed on Azure VM.
 <img width="1920" height="1021" alt="website-running" src="https://github.com/user-attachments/assets/c155693a-89dd-4f0e-9de9-5f83fc5b6efa" />
 
-Example:
+Example of VM created:
+<img width="1920" height="977" alt="vm-created" src="https://github.com/user-attachments/assets/4b8dccf0-8014-4679-a99c-99d481f18a2c" />
+
+Example adress:
 http://172.201.250.84
