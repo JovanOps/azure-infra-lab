@@ -12,6 +12,7 @@ Components used:
 - Nginx web server
 
 ## Result
+<img width="1920" height="968" alt="website-running" src="https://github.com/user-attachments/assets/a1f89bcb-6ae7-4bb7-92be-908612a1b59f" />
 
 Public web server deployed on Azure VM.
 
