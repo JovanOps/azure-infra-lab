@@ -21,7 +21,6 @@ Example of VM created:
 Example adress:
 http://172.201.250.84
 
-# Missing Sections to Add to README.md:
 
 ✅ Architecture Diagram - ASCII art or image showing:
    - Azure Resource Group
