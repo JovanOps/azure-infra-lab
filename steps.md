@@ -4,9 +4,6 @@ Created a new resource group:
 
 vm-web-01_group
 
-Screenshot:
-
-
 
 ## Step 2 — Deploy Ubuntu VM
 
