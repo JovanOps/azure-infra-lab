@@ -1,5 +1,5 @@
 # Azure Infrastructure Lab
-
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 This project demonstrates deployment of a Linux virtual machine in Microsoft Azure and exposing a web server using Nginx.
 
 ## Architecture
